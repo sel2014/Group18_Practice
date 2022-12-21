@@ -7,6 +7,15 @@ public class Test3_Gulsah {
             sum+= i;
         }
         System.out.println(sum);
-        System.exit(0);
+       // System.exit(0);
+
+        System.out.println("_____________________reversing with loop_____________________this is Havva:)");
+        String name = "reverse";
+        String reversed = "";
+        for (int i = name.length()-1; i >= 0; i--) {
+            reversed+=name.charAt(i);
+        }
+        System.out.println(reversed);
     }
+
 }
