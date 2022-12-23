@@ -5,6 +5,7 @@ public class Test3_Selcuk {
 
         System.out.println("Hello World");
 
-        //
+        // hello again
+        // some code
     }
 }
